@@ -1,12 +1,12 @@
-# Flussonic Import and export m3u playlist
+Flussonic Import and export m3u playlist
 
-# This script will work on Debian, Ubuntu, CentOS and probably other distros
-# of the same families, although no support is offered for them. 
+This script will work on Debian, Ubuntu, CentOS and probably other distros
+of the same families, although no support is offered for them. 
 
-# This is a shell script under GNU GPL version 3.0 or above
-# Copyright (C) 2017 LinuxHelps project.
-# Feedback/comment/suggestions : https://slaserx.dev/
-# Author Ivan Bachvarov a.k.a SlaSerX
+This is a shell script under GNU GPL version 3.0 or above
+Copyright (C) 2017 LinuxHelps project.
+Feedback/comment/suggestions : https://slaserx.dev/
+Author Ivan Bachvarov a.k.a SlaSerX
 
 
 flussonic_to_m3u.sh 
