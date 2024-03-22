@@ -6,7 +6,6 @@ of the same families, although no support is offered for them. </br>
 This is a shell script under GNU GPL version 3.0 or above
 Copyright (C) 2017 LinuxHelps project.</br>
 Feedback/comment/suggestions : https://slaserx.dev/</br>
-Author Ivan Bachvarov a.k.a SlaSerX</br>
 
 
 <b>flussonic_to_m3u.sh </br></b>
